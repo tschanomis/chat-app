@@ -12,12 +12,12 @@ function App() {
       <Contact
         avatar="https://randomuser.me/api/portraits/men/71.jpg"
         name="Lonnie Hernandez"
-        online="false"
+        online= ""
       />
       <Contact
-        avatar="https://randomuser.me/api/portraits/women/27.jpg"
+        avatar="https://randomuser.me/api/portraits/women/57.jpg"
         name="Stephanie Armstrong"
-        online="false"
+        online="" 
       />
     </div>
   );
