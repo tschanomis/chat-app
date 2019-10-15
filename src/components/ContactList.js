@@ -15,7 +15,7 @@ const contacts = [
   {
     avatar: "https://randomuser.me/api/portraits/men/44.jpg",
     name: "Clyde Henry",
-    online: false
+    online: true
   },
   {
     avatar: "https://randomuser.me/api/portraits/men/2.jpg",
